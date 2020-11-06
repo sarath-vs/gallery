@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="829eef7a-cf14-4990-b47e-2d8b4f39f037" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1huLgR5QfMksSF7Z2lD07AFpEQ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="language.cpp" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="829eef7a-cf14-4990-b47e-2d8b4f39f037" name="Default Changelist" comment="" />
+      <created>1600856140753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600856140753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600856431306">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="120" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1600856431306" />
+    <state x="181" y="13" key="SettingsEditor" timestamp="1600856256363">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="13" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1600856256363" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600856376319">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1600856376319" />
+  </component>
+</project>
